@@ -6,6 +6,13 @@ Simple C# Console Application Hacked Client Loader for Minecraft.
 
 - Jar Checker (checking minecraft .JAR file)
 
+# Screenshots:
+<img src="https://cdn.discordapp.com/attachments/774233676266995723/976281680715333672/unknown.png" />
+<img src="https://cdn.discordapp.com/attachments/774233676266995723/976281201260249088/unknown.png" />
+<img src="https://cdn.discordapp.com/attachments/774233676266995723/976281363261042708/unknown.png" />
+<img src="https://cdn.discordapp.com/attachments/774233676266995723/976281478403088384/unknown.png" />
+<img src="https://cdn.discordapp.com/attachments/774233676266995723/976281514235035718/unknown.png" />
+
 ## Issues
 If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/Morsy0/simpleLoader/issues).
 
